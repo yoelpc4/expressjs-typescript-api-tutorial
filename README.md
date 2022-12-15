@@ -8,7 +8,7 @@ Install project dependencies
 yarn
 ```
 
-Prepare .env file with contents
+Create .env file with contents
 
 ```dotenv
 DATABASE_URL="file:./dev.db"
