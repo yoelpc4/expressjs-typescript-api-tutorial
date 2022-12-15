@@ -1,4 +1,4 @@
-# Express Typescript API
+# Express.js Typescript API Tutorial
 
 ## Install
 
